@@ -55,7 +55,7 @@
             top: '28px',
           },
           xAxis: {
-            axisLine: { //横坐标线是否显示
+            axisLine: {
               show: false
             },
             axisTick: {
